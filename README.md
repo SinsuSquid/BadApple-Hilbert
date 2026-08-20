@@ -1,5 +1,7 @@
 # [BadApple-Hilbert](https://youtu.be/Bp2uJbzMsUc)
 
+![Preview](preview.gif)
+
 [Bad Apple!!](https://www.youtube.com/watch?v=FtutLA63Cp8) but it's on a 1D continuous bitstream mapped onto a 2D Hilbert space-filling curve.
 
 A high-throughput video processing pipeline that decomposes video frames into a continuous 1D Hilbert space-filling curve and reconstructs them into an animated line snapshot video alongside a real-time 1D stream monitor.
